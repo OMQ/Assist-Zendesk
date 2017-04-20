@@ -1,0 +1,5 @@
+*.DS_Store*
+.zat
+tmp
+settings.yml
+.idea

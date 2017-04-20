@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <symbol id="default" viewBox="0 0 18 18">
+        <polygon points="4 4 13.29 4 17.29 0 0 0 0 17.29 4 13.29 4 4"/>
+        <rect x="5" y="5" width="8" height="8"/>
+        <polygon points="14 4.71 14 14 4.71 14 0.71 18 18 18 18 0.71 14 4.71"/>
+    </symbol>
+</svg>

@@ -1,0 +1,19 @@
+{
+  "omq": {
+    "errors": {
+      "notInitialized": "Account has not been setup so far"
+    }
+  },
+  "app": {
+    "parameters": {
+      "account": {
+        "label": "Account",
+        "helpText": "OMQ account name"
+      },
+      "apikey": {
+        "label": "API Key",
+        "helpText": "OMQ API Key of organisation"
+      }
+    }
+  }
+}

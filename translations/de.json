@@ -1,0 +1,14 @@
+{
+  "app": {
+    "parameters": {
+      "account": {
+        "label": "Konto",
+        "helpText": "OMQ Kontoname"
+      },
+      "apikey": {
+        "label": "API Key",
+        "helpText": "OMQ API Key der Organisation"
+      }
+    }
+  }
+}
