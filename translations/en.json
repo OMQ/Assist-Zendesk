@@ -1,9 +1,4 @@
 {
-  "omq": {
-    "errors": {
-      "notInitialized": "Account has not been setup so far"
-    }
-  },
   "app": {
     "parameters": {
       "account": {
