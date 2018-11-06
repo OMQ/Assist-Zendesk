@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-    <symbol id="default" viewBox="0 0 18 18">
-        <polygon points="4 4 13.29 4 17.29 0 0 0 0 17.29 4 13.29 4 4"/>
-        <rect x="5" y="5" width="8" height="8"/>
-        <polygon points="14 4.71 14 14 4.71 14 0.71 18 18 18 18 0.71 14 4.71"/>
-    </symbol>
-</svg>
+<svg id="assist" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96 96"><defs><style>.cls-1{fill:none;}.cls-2{fill:#9800b2;}.cls-3{clip-path:url(#clip-path);}.cls-4{fill:#fff;}</style><clipPath id="clip-path"><rect class="cls-1" x="-0.04167" width="96" height="96" rx="12" ry="12"/></clipPath></defs><title>assist</title><g id="_96x96" data-name="96x96"><rect class="cls-2" x="-0.04167" width="96" height="96" rx="12" ry="12"/><g class="cls-3"><path class="cls-4" d="M35.95833,30a18,18,0,1,1-18,18,18.02038,18.02038,0,0,1,18-18m0-6a24,24,0,1,0,24,24,24,24,0,0,0-24-24Z"/><path class="cls-4" d="M32.95833-9v6a51,51,0,1,1,0,102v6a57,57,0,0,0,0-114Z"/></g></g></svg>
