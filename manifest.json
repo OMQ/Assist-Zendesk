@@ -9,7 +9,7 @@
   "private": true,
   "location": {
     "support": {
-      "ticket_sidebar": "https://app.omq.de/integration/plug-in?source=zendesk",
+      "ticket_sidebar": "https://app.omq.de/integration/assist?source=zendesk",
       "nav_bar": "https://app.omq.de/integration/administration?source=zendesk"
     }
   },
