@@ -1,9 +1,0 @@
-{
-  "user_fields": {
-    "omq_api_key": {
-      "key": "omq_api_key",
-      "type": "text",
-      "title": "OMQ User Api Key"
-    }
-  }
-}
