@@ -6,7 +6,7 @@
     "url": "https://www.omq.de"
   },
   "defaultLocale": "en",
-  "private": true,
+  "private": false,
   "location": {
     "support": {
       "ticket_sidebar": "https://app.omq.de/integration/assist?source=zendesk",
