@@ -1,19 +1,19 @@
 {
-  "name": "OMQ plug-in",
+  "name": "OMQ Assist",
   "author": {
     "name": "OMQ GmbH",
     "email": "develop@omq.de",
     "url": "https://www.omq.de"
   },
   "defaultLocale": "en",
-  "private": true,
+  "private": false,
   "location": {
     "support": {
-      "ticket_sidebar": "https://app.omq.de/integration/plug-in?source=zendesk",
+      "ticket_sidebar": "https://app.omq.de/integration/assist?source=zendesk",
       "nav_bar": "https://app.omq.de/integration/administration?source=zendesk"
     }
   },
-  "version": "8.6.0",
+  "version": "9.1.0",
   "frameworkVersion": "2.0",
   "parameters": [
     {

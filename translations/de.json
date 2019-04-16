@@ -6,8 +6,8 @@
         "helpText": "OMQ Kontoname"
       },
       "apikey": {
-        "label": "API Key",
-        "helpText": "OMQ API Key der Organisation"
+        "label": "Assist API Key",
+        "helpText": "OMQ API Key für Assist"
       }
     }
   }

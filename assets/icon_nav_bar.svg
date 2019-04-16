@@ -1,7 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-    <symbol id="default" viewBox="0 0 18 18">
-        <polygon points="4 4 13.29 4 17.29 0 0 0 0 17.29 4 13.29 4 4"/>
-        <rect x="5" y="5" width="8" height="8"/>
-        <polygon points="14 4.71 14 14 4.71 14 0.71 18 18 18 18 0.71 14 4.71"/>
-    </symbol>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Ebene_1" x="0px"
+     y="0px" viewBox="0 0 18 18" style="enable-background:new 0 0 18 18;" xml:space="preserve">
+    <g>
+        <defs>
+            <path id="SVGID_1_"
+                  d="M2.2,0h13.5C17,0,18,1,18,2.3v13.5c0,1.2-1,2.2-2.2,2.2H2.2C1,18,0,17,0,15.8V2.3C0,1,1,0,2.2,0z"/>
+        </defs>
+
+        <clipPath id="clip-path">
+            <rect class="cls-1" width="18" height="18" rx="2.4965" ry="2.4965"/>
+        </clipPath>
+
+        <g class="cls-2" clip-path="url(#clip-path)">
+            <path d="M15.6872,9.05A9.6972,9.6972,0,0,0,9.352,0H0V18H9.4525A9.616,9.616,0,0,0,15.6872,9.05Zm-8.34,4.4721A4.5282,4.5282,0,1,1,11.109,9.7611,4.5215,4.5215,0,0,1,7.3476,13.5224Z"/>
+            <path d="M6.6369,5.6313a3.421,3.421,0,1,0,3.419,3.419A3.4552,3.4552,0,0,0,6.6369,5.6313Z"/>
+            <path d="M11.8659,0a10.8341,10.8341,0,0,1,4.9274,9.05A10.7,10.7,0,0,1,11.9665,18H18V0Z"/>
+        </g>
+    </g>
 </svg>

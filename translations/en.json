@@ -1,13 +1,17 @@
 {
   "app": {
+    "name": "OMQ Assist",
+    "short_description": "Your service agent resolves inquiries. \nAt the click of a mouse.",
+    "long_description": "OMQ assist enhances your ticket system with a self-learning knowledge base, which automatically suggests suitable solutions. The processing time of each individual ticket is reduced, because of the extremely shortened research process.",
+    "installation_instructions": "Install the plugin. \nClick on the OMQ tab on the left menu sidebar to create a new OMQ account. \nFollow the instructions.",
     "parameters": {
       "account": {
         "label": "Account",
         "helpText": "OMQ account name"
       },
       "apikey": {
-        "label": "API Key",
-        "helpText": "OMQ API Key of organisation"
+        "label": "Assist API Key",
+        "helpText": "OMQ API Key for Assist"
       }
     }
   }
