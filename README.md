@@ -1,8 +1,8 @@
-# OMQ assist for Zendesk
+# OMQ Assist for Zendesk
 
 ### Description
 
-OMQ assist enhances your ticket system with a self-learning knowledge base, which automatically suggests suitable solutions. The processing time of each individual ticket is reduced, because of the extremely shortened research process.
+OMQ Assist enhances your ticket system with a self-learning knowledge base, which automatically suggests suitable solutions. The processing time of each individual ticket is reduced, because of the extremely shortened research process.
 
 ### How to install
 
