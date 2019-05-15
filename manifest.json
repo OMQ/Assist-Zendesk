@@ -1,9 +1,9 @@
 {
   "name": "OMQ Assist",
   "author": {
-    "name": "OMQ GmbH",
+    "name": "OMQ",
     "email": "develop@omq.de",
-    "url": "https://www.omq.de"
+    "url": "https://www.omq.ai"
   },
   "defaultLocale": "en",
   "private": false,
