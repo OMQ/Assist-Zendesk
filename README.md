@@ -1,26 +1,8 @@
-# OMQ Assist for Zendesk
+# OMQ Assist for Zendesk - scalable customer service with AI!
 
-## Description
+With OMQ Assist for Zendesk you will provide the **best customer service**.
 
-[OMQ Assist](https://www.omq.ai/products/assist/) makes Zendesk more **efficient** and helps you to deliver great customer service.
-
-## Features include:
-
-- Answer support tickets with one click
-- Solve requests from all over the world (supports 32 languages)
-- OMQ AI learns from your support tickets (self learning)
-- Rights management for agents
-- Work in the OMQ knowledge base without leaving Zendesk
-
-The latest stable version of the extension can be installed via the [Zendesk Marketplace](https://www.zendesk.com/apps/support/omq-assist/).
-
-
-## OMQ Assist
- 
-OMQ Assist enhances your ticket system with a **self-learning** knowledge base, which automatically suggests suitable solutions. The processing time of each individual ticket is reduced, because of the extremely shortened research process. As soon as a ticket or a customer email is opened in Zendesk, OMQ Assist reads the message automatically. The **Artificial Intelligence** of OMQ understands the customer’s request and OMQ Assist proposes matching entries from the **knowledge base**. These appear in the right pane of Zendesk Support.
-
-You can also individually search for an answer if you want to use a different answer than the one suggested by OMQ Assist. Just enter a search term in the **search field**. OMQ Assist displays all entries for this search term. The number in the first place indicates how many entries for the term are stored in the knowledge base as a whole. Below is listed which specific entries there are related to the term and how many of them exist.
-
+[OMQ Assist](https://www.omq.ai/products/assist/) **supports your agents** to reply faster and reduce manual work. The artificial intelligent understand every **support ticket** and give your agent a overview of solutions. OMQ Assist is connected with the OMQ knowledge base to collect all important information. The OMQ Assist Zendesk app is **available in 32 languages**. The rights management makes it **easy** to manage different roles.
 
 ## Screenshots
 
@@ -29,29 +11,37 @@ Ticket preview | Assist preview | Admin preview
 ![Ticket preview](assets/screenshot-0.png) | ![Assist preview](assets/screenshot-1.png) | ![Admin preview](assets/screenshot-2.png)
 
 
-## About OMQ
+## Benefits OMQ Assist
 
-[OMQ](https://www.omq.ai) is a central and intelligent knowledge base. All OMQ products access the same service answers from the **knowledge base** and direct them into the various communication channels.
-
-
-## OMQ’s AI understands the customer’s intent
-
-With our [artificial intelligence](https://www.omq.ai/blog/artificial-intelligence-in-customer-service/), incoming customer messages will be **automatically** read. Simultaneously, OMQ Assist analyzes and understands the **intention** of the customer request. Text blocks will be displayed to the **service agent** so that they can compose an email reply with a single click. Manually replying to repetitive customer requests will therefore be avoided.
-
-
-## How to install the Zendesk app
-
-Go to the [Zendesk Marketplace](https://www.zendesk.com/apps/support/omq-assist/).
-Install the plugin. Click on the OMQ tab on the left menu sidebar to create a new OMQ account. Follow the [instructions](https://www.omq.ai/blog/zendesk-omq-assist/).
-
-Integration with **Zendesk** uses an **API key**. This is used to identify the connection in the ticket system. New customers create a free OMQ account during the integration process. The API is generated automatically in the process. OMQ customers who already have an account can generate an API key for a new Assist connection in the OMQ knowledge base under the **Assist** module. This is automatically generated via the plus-icon in the left corner.
+ - Automatic identification of solutions 
+ - Self-learning knowledge base
+ - Simple answer choice even with multiple problems in a request 
+ - Easy detection of the contents of the customer request 
+ - Individual processing of customer response
 
 
-## Contribution
+## Newest Version
 
-Improvements to the extension are always welcome. To contribute, please contact [OMQ](https://www.omq.ai/company/contact/).
+We are constantly evolving our systems further. 
+**You will find the newest Version of OMQ Assist in the [Zendesk Marketplace](https://www.zendesk.com/apps/support/omq-assist/?q=mkp_omq).**
 
 
-## Bugs
+## Installation
 
-Please submit bug reports to [support@omq.ai](mailto:support@omq.ai).
+The installation of OMQ Assist in **Zendesk** is very easy. You don't need expert knowledge. To connect Zendesk with OMQ you need a API key and an active OMQ account. The test period is **free** and takes only a few minutes.
+
+**For the installation you can follow the instructions in the [article](https://www.omq.ai/blog/zendesk-omq-assist/).**
+
+
+## About us
+
+![OMQ Logo](https://www.omq.ai/images/menu/omq.svg =100x)
+
+[OMQ](http://www.omq.ai/) answers customer service requests by using artificial intelligence.
+
+With the **intelligent knowledge base** you can control every information what you want that is important for your customer. No matter if **chat, FAQ or another contact channel**, you can provide the information to your customers everywhere.
+
+
+## Feedback & Bugs
+
+Please [contact us](https://www.omq.ai/company/contact/) if you have any suggestions for improvement.
