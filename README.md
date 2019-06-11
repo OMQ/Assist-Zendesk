@@ -35,8 +35,6 @@ The installation of OMQ Assist in **Zendesk** is very easy. You don't need exper
 
 ## About us
 
-![OMQ Logo](https://www.omq.ai/images/menu/omq.svg =100x)
-
 [OMQ](http://www.omq.ai/) answers customer service requests by using artificial intelligence.
 
 With the **intelligent knowledge base** you can control every information what you want that is important for your customer. No matter if **chat, FAQ or another contact channel**, you can provide the information to your customers everywhere.
